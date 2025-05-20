@@ -2,7 +2,7 @@ div {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
-     width: 400px;
+    width: 400px;
     height: 900px;
     background-color: rgb(77, 14, 179);
     overflow: auto;
